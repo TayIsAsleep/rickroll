@@ -21,6 +21,4 @@ var t=setInterval(function(){
 	document.querySelectorAll(".overflow-WK9Ogt, .messageContent-2qWWxC").forEach(e=>{
 		e.innerHTML = "You got Rick Rolled!"
 	})
-
-
 },100);
